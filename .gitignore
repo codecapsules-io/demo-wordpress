@@ -1,0 +1,9 @@
+wp/
+wp-content/uploads
+
+/*.sql
+/wp-content/**/*.sql
+
+.env
+
+wp-cli.local.yml
